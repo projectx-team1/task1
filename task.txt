@@ -1,0 +1,4 @@
+1. create a branch. 
+2. create a file, and add your name and surname. 
+3. Commit the changes with the following message "Added {Your name here} to the repository".
+4.Push the changes into this repository. Do not merge any branches onto main.
